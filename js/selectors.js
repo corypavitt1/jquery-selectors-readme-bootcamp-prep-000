@@ -13,5 +13,5 @@ function ninjaBabySelector() {
  }
 
 function firstListItem() {
-return $('ul img:first-child')
+return $('div li:first-child')
 }
